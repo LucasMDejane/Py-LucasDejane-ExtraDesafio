@@ -1,0 +1,76 @@
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\doc3.doc
+Linha: 17
+Conteúdo: Fornecedores Principais e seus CNPJs:
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\doc3.doc
+Linha: 18
+Conteúdo: - TechSolutions Ltda. - CNPJ: 12.345.678/0001-90
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\doc3.doc
+Linha: 19
+Conteúdo: - FashionCorp S.A. - CNPJ 98.765.432/0001-11
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\doc3.doc
+Linha: 20
+Conteúdo: - AgroFoods Distribuidora - CNPJ: 54.321.098/0001-22
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\doc3.doc
+Linha: 23
+Conteúdo: Foi identificado um problema no cadastro de um cliente que apresentou um CPF inválido. A equipe de atendimento ao cliente já foi acionada para correção. Além disso, estamos aguardando a regularização do CNPJ de um novo fornecedor.
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\doc3.doc
+Linha: 27
+Conteúdo: - Realizar auditoria nos CNPJs dos novos parceiros.
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\doc4.txt
+Linha: 8
+Conteúdo: * CNPJ: 04.567.890/0001-12
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\doc4.txt
+Linha: 14
+Conteúdo: * CNPJ: 87.654.321/0001-00
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\doc4.txt
+Linha: 20
+Conteúdo: * CNPJ: 11.222.333/0001-44
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\doc4.txt
+Linha: 26
+Conteúdo: * CNPJ: 99.888.777/0001-55
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\doc4.txt
+Linha: 31
+Conteúdo: Todos os fornecedores são submetidos a uma análise rigorosa de CNPJ e histórico financeiro. Qualquer inconsistência ou alteração no CNPJ ou no CPF dos sócios deve ser comunicada imediatamente.
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\doc5.ini
+Linha: 23
+Conteúdo: CNPJ_ValidacaoObrigatoria=True
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\doc5.ini
+Linha: 29
+Conteúdo: ; Comentário: As configurações de CNPJ e CPF são cruciais para a segurança dos dados.
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\doc5.ini
+Linha: 30
+Conteúdo: ; Assegure-se de que a validação do CNPJ seja feita em todas as transações.
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\sub\doc2.csv
+Linha: 1
+Conteúdo: Nome,Sobrenome,Email,CPF,Endereco,Telefone,CNPJ_Empresa
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\sub\doc2.csv
+Linha: 5
+Conteúdo: Ana,Costa,ana.costa@email.com,321.654.987-00,"Praça D, 101",34567-8901,CNPJ 99.888.777/0001-55
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\sub\doc2.csv
+Linha: 7
+Conteúdo: Laura,Martins,laura.m@email.com,654.321.987-00,"Lote F, 303",21098-7654,CNPJ da Filial: 00.111.222/0002-99
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\sub2\sub3\doc1.txt
+Linha: 3
+Conteúdo: Um exemplo de texto com informações adicionais. É importante verificar o CNPJ da empresa antes de fechar qualquer negócio. O sistema possui um cadastro de CPF para cada usuário, garantindo a unicidade dos dados.
+----------------------------------------
+Arquivo: C:\Users\Dejane Trabalho\Desktop\Python-Extra-dejane\Py-LucasDejane-ExtraDesafio\arquivos-testes\sub2\sub3\doc1.txt
+Linha: 7
+Conteúdo: Verifique sempre o CNPJ do fornecedor. O CPF é um dado sensível e deve ser protegido. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+----------------------------------------

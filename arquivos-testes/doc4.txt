@@ -1,0 +1,31 @@
+Cadastro de Fornecedores - Versão 3.1
+
+Data de Atualização: 17/07/2025
+
+Este documento contém a lista atualizada de fornecedores aprovados e seus respectivos dados. Para qualquer inclusão ou alteração, por favor, contatar o departamento de Suprimentos.
+
+1.  **Fornecedor: Alpha Suprimentos Ltda.**
+    * CNPJ: 04.567.890/0001-12
+    * Endereço: Rua dos Fornecedores, 100 - Cidade Industrial
+    * Contato: compras@alpha.com
+    * Observações: Contrato renovado em 01/06/2025.
+
+2.  **Fornecedor: Beta Soluções Digitais**
+    * CNPJ: 87.654.321/0001-00
+    * Endereço: Av. Principal, 500 - Centro
+    * Contato: vendas@beta.com
+    * Observações: Especializado em softwares. Necessário verificar o CPF dos consultores que prestam serviço.
+
+3.  **Fornecedor: Gama Logística Expressa**
+    * CNPJ: 11.222.333/0001-44
+    * Endereço: Rodovia do Sol, Km 10 - Galpão 5
+    * Contato: logistica@gama.com
+    * Observações: Novo parceiro para entregas rápidas.
+
+4.  **Fornecedor: Delta Serviços de Limpeza**
+    * CNPJ: 99.888.777/0001-55
+    * Endereço: Rua da Paz, 20 - Bairro Tranquilo
+    * Contato: delta.servicos@email.com
+    * Observações: Regularização pendente do CPF do responsável técnico.
+
+Todos os fornecedores são submetidos a uma análise rigorosa de CNPJ e histórico financeiro. Qualquer inconsistência ou alteração no CNPJ ou no CPF dos sócios deve ser comunicada imediatamente.

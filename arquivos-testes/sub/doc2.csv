@@ -1,0 +1,8 @@
+Nome,Sobrenome,Email,CPF,Endereco,Telefone,CNPJ_Empresa
+João,Silva,joao.silva@email.com,123.456.789-00,"Rua A, 123",98765-4321,Não Aplicável
+Maria,Oliveira,maria.o@email.com,987.654.321-00,"Av. B, 456",12345-6789,11.222.333/0001-44
+Carlos,Pereira,carlos.p@email.com,456.789.123-00,"Travessa C, 789",56789-0123,Não Aplicável
+Ana,Costa,ana.costa@email.com,321.654.987-00,"Praça D, 101",34567-8901,CNPJ 99.888.777/0001-55
+Pedro,Santos,pedro.s@email.com,789.123.456-00,"Alameda E, 202",78901-2345,01.234.567/0001-88
+Laura,Martins,laura.m@email.com,654.321.987-00,"Lote F, 303",21098-7654,CNPJ da Filial: 00.111.222/0002-99
+Rafaela,Almeida,rafaela.a@email.com,111.222.333-44,"Vila G, 404",43210-9876,
